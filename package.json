@@ -1,10 +1,10 @@
 {
-  "name": "npm-package-test",
+  "name": "npm-yosi-test-package",
   "version": "1.0.0",
   "description": "npm package test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
