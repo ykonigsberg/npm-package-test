@@ -1,7 +1,7 @@
 {
   "name": "npm-yosi-test-package",
-  "version": "2.0.3",
-  "description": "npm package test",
+  "version": "2.0.4",
+  "description": "npm package test razraz",
   "main": "index.js",
   "scripts": {
     "test": ""
