@@ -1,8 +1,8 @@
 function helloNpm() {
     window.helloNpm = () => {
-      return "hello NPMi"
+      return "hello NPMi123"
     }
-    return "hello NPMi"
+    return "hello NPMi123"
 }
 
 module.exports = helloNpm
